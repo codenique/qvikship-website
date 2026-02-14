@@ -3,7 +3,8 @@ A modern business website designed to enhance online presence and improve custom
 
 
 Project Objective
-To build a professional and trustworthy online presence for a car shipping company, focusing on clarity, conversion-driven layout and responsive performance across all devices.
+
+ To build a professional and trustworthy online presence for a car shipping company, focusing on clarity, conversion-driven layout and responsive performance across all devices.
 
 
 ---
@@ -30,7 +31,7 @@ Technologies Used
 
 Outcome
 
-Delivered a clean, user-friendly and conversion-focused website that strengthens brand credibility and improves customer inquiry flow.
+ Delivered a clean, user-friendly and conversion-focused website that strengthens brand credibility and improves customer inquiry flow.
 
 ---
 
