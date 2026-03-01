@@ -50,4 +50,5 @@ A modern and responsive business website for a car shipping service platform, de
 
 ---
 
-Designed & Developed by Codnique
+ ## Developed By
+ Designed & Developed by Codnique
