@@ -1,17 +1,20 @@
 # # Qvikship – Car Shipping Business Website
 A modern business website designed to enhance online presence and improve customer engagement for a car shipping company.
 
+**Live Website:** https://qvikship.com/
+
+A modern and responsive business website for a car shipping service platform, designed to build trust, showcase services, and drive customer inquiries.
 
 
 
-Project Objective
+## Project Objective
 
  To build a professional and trustworthy online presence for a car shipping company, focusing on clarity, conversion-driven layout and responsive performance across all devices.
 
 
 ---
 
- Key Features
+ ## Key Features
 - Fully responsive design (mobile & tablet optimized)
 - Professional hero section with strong call-to-action
 - Structured service sections
@@ -21,7 +24,7 @@ Project Objective
 
 ---
 
-Technologies Used
+## Technologies Used
 - WordPress
 - Elementor
 - HTML5
@@ -31,23 +34,20 @@ Technologies Used
 
 ---
 
-Outcome
+## Outcome
 
  Delivered a clean, user-friendly and conversion-focused website that strengthens brand credibility and improves customer inquiry flow.
 
 ---
 
- Development Approach
+ ## Development Approach
 - Structured layout planning
 - User-focused navigation design
 - Clean typography and spacing
 - Performance and responsiveness optimization
 
 
-Live Website
-https://qvikship.com/
 
 ---
 
-Developed By
- codenique
+Designed & Developed by Codnique
